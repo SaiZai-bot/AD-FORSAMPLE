@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <img src="./assets/img/logo.png" alt="MathWizard" width="200" height="250">
+  <img src="./assets/img/logo.png" alt="MathWizard" width="250" height="250">
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Math Wizard</h3>
 </div>
