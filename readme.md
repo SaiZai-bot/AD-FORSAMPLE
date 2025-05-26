@@ -4,6 +4,7 @@
 
 <br />
 <div align="center">
+  <img src="./assets/img/logo.png" alt="Nyebe" width="130" height="100">
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Math Wizard</h3>
 </div>
@@ -65,7 +66,7 @@ In this project, it will feature all basic programming of PHP, it will declare a
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 ## Rules, Practices and Principles
 
@@ -89,27 +90,28 @@ In this project, it will feature all basic programming of PHP, it will declare a
 AD-ProjectName
 └─ assets
 |   └─ css
-|   |   └─ name.css
+|   |   └─ style.css
 |   └─ img
-|   |   └─ name.jpeg/.jpg/.webp/.png
-|   └─ js
-|       └─ name.js
-└─ components
-|   └─ name.component.php
+|   |   └─ mathbg.webp
+|   └─ img
+|   |   └─ logo.png
 └─ pages
-|  └─ pageName
+|  └─ lesson
 |     └─ assets
 |     |  └─ css
-|     |  |  └─ name.css
+|     |  |  └─ style.css
 |     |  └─ img
-|     |  |  └─ name.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ name.js
+|     |  |  └─ mathbg.webp
 |     └─ index.php
-└─ utils
-|   └─ Name.utils.php
 └─ index.php
 └─ readme.md
+└─ .gitignore
+└─ bootstrap.php
+└─ composer.json
+└─ composer.lock
+└─ router.php
+
+
 ```
 > The following should be renamed: name.css, name.js, name.jpeg/.jpg/.webp/.png, name.component.php(but not the part of the `component.php`), Name.utils.php(but not the part of the `utils.php`)
 
@@ -119,7 +121,4 @@ AD-ProjectName
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Loopings in PHP W3School | descriptions and practice on how loops is programmed and functions in PHP | https://www.w3schools.com/php/php_looping.asp |
