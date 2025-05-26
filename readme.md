@@ -20,7 +20,7 @@
 
 ![](https://visit-counter.vercel.app/counter.png?page=SaiZai-bot/AD-CI4-Template-Project)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/04412757-f1c1-4ba6-86ec-7b8428992c73/project/a5ea2f3b-db0a-4679-a95a-028196a8a6cd.svg)](https://wakatime.com/badge/user/04412757-f1c1-4ba6-86ec-7b8428992c73/project/a5ea2f3b-db0a-4679-a95a-028196a8a6cd)
 
 ---
 
