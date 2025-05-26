@@ -57,6 +57,15 @@
 
 In this project, it will feature all basic programming of PHP, it will declare arrays to store the values and computations to be used for display. For loops to loop through the array for easy outputs. Lastly, it will use conditional statements, if else, for the conditional operators.
 
+### Key Components
+
+<!-- TODO: List of Key Components -->
+<!-- The following are just sample -->
+
+- Conditional statements
+- Looping 
+- Display 
+
 ### Technology
 
 <!-- TODO: List of Technology Used -->
