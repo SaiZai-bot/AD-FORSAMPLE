@@ -65,8 +65,6 @@ In this project, it will feature all basic programming of PHP, it will declare a
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Deployment
-
 
 ## Rules, Practices and Principles
 
@@ -103,6 +101,7 @@ AD-ProjectName
 |     |  └─ img
 |     |  |  └─ mathbg.webp
 |     └─ index.php
+|
 └─ index.php
 └─ readme.md
 └─ .gitignore
