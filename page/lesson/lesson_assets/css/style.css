@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(../img/mathbg.jpg);
+    background: url(../img/mathbg.webp);
     font-size: 20px;
     background-size: cover;
 }
