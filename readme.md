@@ -85,7 +85,7 @@ In this project, it will feature all basic programming of PHP, it will declare a
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-Task-1
 └─ assets
 |   └─ css
 |   |   └─ style.css
